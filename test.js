@@ -20,3 +20,4 @@ function proizv() {
 }
 
 console.log(proizv(n, m));
+console.log("OK/ Finished");
