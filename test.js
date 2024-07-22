@@ -13,3 +13,10 @@ function razn() {
 
 console.log(razn(n, m));
 console.log("END");
+
+//Task2
+function proizv() {
+  return a * b;
+}
+
+console.log(proizv(n, m));
