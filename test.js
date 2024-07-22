@@ -6,3 +6,9 @@ function sum(a, b) {
 }
 
 console.log(sum(n, m));
+
+function razn() {
+  return a - b;
+}
+
+console.log(razn(n, m));
