@@ -12,3 +12,4 @@ function razn() {
 }
 
 console.log(razn(n, m));
+console.log("END");
